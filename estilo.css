@@ -1,0 +1,33 @@
+body{
+    background: rgb(107, 107, 241);
+    
+}
+header{
+    font:normal 15pt times new roman;
+    color:white;
+    text-align: center;
+}
+section{
+  font:normal 15pt algerian;
+  color:rgb(84, 122, 192);
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 600px;
+  height: 550px;
+  margin: auto;
+  text-align: center;
+  box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.795);
+}
+footer{
+    color:white;
+    text-align: center;
+    font: normal 15pt italic;
+    
+}
+img#imagem{
+    margin-top: 20px;
+    width: 500px;
+    height: 300px;
+}
+
